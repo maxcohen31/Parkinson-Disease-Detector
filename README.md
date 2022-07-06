@@ -22,6 +22,4 @@ This project can be classified as a classification problem: the response is cate
 It's possible to make the model perform better: feel free to modify it.
 
 ## Citations
-'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
-=======
->>>>>>> 85b234ad6b5de30c688a417c6d79743a48fb0edc
+Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
